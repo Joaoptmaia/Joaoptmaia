@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Joaoptmaia
-- 👀 I’m interested in cloud, programming and agames
+- 👀 I’m interested in cloud, programming and games
 - 🌱 I’m currently learning microservices
 - 💞️ I’m looking to collaborate on cloud infrastructure design
 - 📫 How to reach me @joaoptmaia
